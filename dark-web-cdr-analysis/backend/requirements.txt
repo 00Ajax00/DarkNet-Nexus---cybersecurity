@@ -1,0 +1,17 @@
+fastapi
+flask
+asyncpg
+sqlalchemy
+pandas
+scikit-learn
+spacy
+transformers
+torch
+neo4j
+elasticsearch
+celery
+redis
+websockets
+jwt
+gunicorn
+uvicorn
